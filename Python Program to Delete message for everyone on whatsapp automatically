@@ -1,3 +1,4 @@
+For this program to run you need to open whatsapp in chrome tab, and then run this program and open the whatsapp tab.
 import pyautogui as pg
 import time
 def delete_for_everyone():
